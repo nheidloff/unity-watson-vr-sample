@@ -1,0 +1,14 @@
+This product includes software originally developed by IBM Corporation
+Copyright 2018 IBM Corp.
+https://github.com/nheidloff/unity-watson-vr-sample
+
+
+This project also includes the following code:
+
+Watson APIs Unity SDK
+https://github.com/watson-developer-cloud/unity-sdk
+ALv2: https://github.com/watson-developer-cloud/unity-sdk/blob/develop/LICENSE
+
+Google VR SDK for Unity
+https://github.com/googlevr/gvr-unity-sdk
+ALv2: https://github.com/googlevr/gvr-unity-sdk/blob/master/LICENSE
