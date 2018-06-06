@@ -31,7 +31,7 @@ Technically the following services and tools are used:
 
 Clone this repo and open the directory 'SimpleVR' in Unity.
 
-Get an [IBM Cloud](https://ibm.biz/nheidloff) account. The lite account is free for one year (no credit card required) and supports the Watson services used in this sample.
+Get an [IBM Cloud](https://ibm.biz/nheidloff) account. The lite account is free (no credit card required, no time restriction) and supports the Watson services used in this sample.
 
 Create a [Watson Assistant](https://console.bluemix.net/catalog/services/watson-assistant-formerly-conversation) instance and import [workspace.json](workspace.json) as a new workspace. Copy and paste the user name, user password and workspace id in [SoldierConvo.js](SimpleVR/Assets/SoldierConvo.js).
 
